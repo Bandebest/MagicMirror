@@ -1,13 +1,13 @@
 {
 	"LOADING": "Se încarcă …",
 
-	"DAYBEFOREYESTERDAY": "Alaltaieri",
+	"DAYBEFOREYESTERDAY": "Alaltăieri",
 	"YESTERDAY": "Ieri",
 	"TODAY": "Astăzi",
 	"TOMORROW": "Mâine",
 	"DAYAFTERTOMORROW": "Poimâine",
 	"RUNNING": "Se termină în",
-	"EMPTY": "Nici un eveniment.",
+	"EMPTY": "Niciun eveniment.",
 	"WEEK": "Săptămâna {weekNumber}",
 
 	"N": "N",
